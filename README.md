@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serhat Çolak</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React.Js and Node.Js**
+- 🌱 I’m currently developing **React.Js and Node.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/serq26](https://github.com/serq26)
 
